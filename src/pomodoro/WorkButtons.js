@@ -1,8 +1,8 @@
-import React, {useState} from "react"
+import React from "react"
 import {minutesToDuration} from "../utils/duration/index"
 
 function WorkButtons(props){
-    const {focusTime, isTimerRunning, focusPlus, focusMinus} = props
+    const {focusTime, focusPlus, focusMinus} = props
     return(
             <div className="input-group input-group-lg mb-2">
             <span className="input-group-text" data-testid="duration-focus">

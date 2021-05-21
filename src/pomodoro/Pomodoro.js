@@ -5,7 +5,7 @@ import BreakButtons from "./BreakButtons";
 import WorkButtons from "./WorkButtons"
 import StartStop from "./StartStop"
 import DisplayText from "./DisplayText"
-import {minutesToDuration, secondsToDuration} from "../utils/duration/index"
+
 
 function Pomodoro() {
   // Timer starts out paused

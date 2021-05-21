@@ -1,10 +1,10 @@
-import React, {useState} from "react"
+import React from "react"
 import {minutesToDuration} from "../utils/duration/index"
 
 
 
 function BreakButtons(props){
-  const {breakTime, isTimerRunning, breakMinus, breakPlus} = props
+  const {breakTime, breakMinus, breakPlus} = props
   return (
   <div className="col">
   <div className="float-right">

@@ -1,4 +1,4 @@
-import React, {onClick} from "react"
+import React from "react"
 
 function StartStop(props){
     const {playPause, classNames, isTimerRunning, stopHandler} =props
