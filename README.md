@@ -2,4 +2,4 @@
 
 
 A variable timer, meant to help users alternate between periods of focus (on a project or task) and rests or breaks in said project or task.
-Styling was given, but all functionality behid the buttons was built out and implemented by ALaird42.
+Styling was given, but all functionality behid the buttons was built out and implemented by ALaird42 using React.
